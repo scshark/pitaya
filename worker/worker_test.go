@@ -7,7 +7,7 @@ import (
 
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
-	workers "github.com/scshark/go-workers"
+	workers "github.com/topfreegames/go-workers"
 	"github.com/scshark/pitaya/v2/worker/mocks"
 )
 

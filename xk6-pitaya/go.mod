@@ -45,7 +45,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.15.0 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
-	github.com/scshark/go-workers v1.1.0 // indirect
+	github.com/topfreegames/go-workers v1.1.0 // indirect
 	github.com/scshark/pitaya/v2 v2.6.3-0.20230901141417-b7ec5822e19e // indirect
 	go.etcd.io/etcd/api/v3 v3.5.9 // indirect
 	go.etcd.io/etcd/client/pkg/v3 v3.5.6 // indirect

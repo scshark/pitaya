@@ -302,8 +302,8 @@ github.com/subosito/gotenv v1.4.2 h1:X1TuBLAMDFbaTAChgCBLu3DU3UPyELpnF2jjJ2cz/S8
 github.com/subosito/gotenv v1.4.2/go.mod h1:ayKnFf/c6rvx/2iiLrJUk1e6plDbT3edrFNGqEflhK0=
 github.com/thrawn01/args v0.3.0/go.mod h1:TnRiOFjyh7Wa6oC8ACFPc7KIvbzCiluphA3mJUiPIEo=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20201229170055-e5319fda7802 h1:uruHq4dN7GR16kFc5fp3d1RIYzJW5onx8Ybykw2YQFA=
-github.com/scshark/go-workers v1.1.0 h1:gLJHsTeNxx2K3lNyDD4lC4XpPF+0u0TYuWcp76Eqccg=
-github.com/scshark/go-workers v1.1.0/go.mod h1:8D8gh2G+q1i9rq92d6QRGyQcWlzPKV+O86WG8UxAPIg=
+github.com/topfreegames/go-workers v1.1.0 h1:gLJHsTeNxx2K3lNyDD4lC4XpPF+0u0TYuWcp76Eqccg=
+github.com/topfreegames/go-workers v1.1.0/go.mod h1:8D8gh2G+q1i9rq92d6QRGyQcWlzPKV+O86WG8UxAPIg=
 github.com/scshark/pitaya/v2 v2.7.1 h1:lYq12zEV4pIcDiO6X5KUDNRyuh8XwqSsPIqENgvPxd8=
 github.com/scshark/pitaya/v2 v2.7.1/go.mod h1:l6ulUnljsYVCl1+bJOabYOmbXfJ57HWo0g1km0HoUvM=
 github.com/uber/jaeger-client-go v2.25.0+incompatible h1:IxcNZ7WRY1Y3G4poYlx24szfsn/3LvK9QHCq9oQw8+U=
