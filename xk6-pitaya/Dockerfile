@@ -7,8 +7,8 @@ RUN go install go.k6.io/xk6/cmd/xk6@latest
 # For our example, we'll add support for output of test metrics to InfluxDB v2.
 # Feel free to add other extensions using the '--with ...'.
 RUN xk6 build \
-    --with github.com/topfreegames/pitaya/xk6-pitaya@$pitaya_revision  \
-    --with github.com/topfreegames/pitaya/v2@$pitaya_revision \
+    --with github.com/scshark/pitaya/xk6-pitaya@$pitaya_revision  \
+    --with github.com/scshark/pitaya/v2@$pitaya_revision \
     --with google.golang.org/grpc=google.golang.org/grpc@v1.54.1 \
     --output /k6
 

@@ -1,13 +1,13 @@
 # xk6-pitaya
 
-`xk6-pitaya` is a [k6](https://go.k6.io/k6) extension that provides a [Pitaya](https://github.com/topfreegames/pitaya) client implementation.
+`xk6-pitaya` is a [k6](https://go.k6.io/k6) extension that provides a [Pitaya](https://github.com/scshark/pitaya) client implementation.
 
 # Usage
 
 ## Building the k6 binary
 
 ```shell
-xk6 build --with github.com/topfreegames/xk6-pitaya=. --with github.com/topfreegames/pitaya/v2=../ --with google.golang.org/grpc=google.golang.org/grpc@v1.54.1
+xk6 build --with github.com/scshark/xk6-pitaya=. --with github.com/scshark/pitaya/v2=../ --with google.golang.org/grpc=google.golang.org/grpc@v1.54.1
 ```
 
 ## Building the k6 docker image

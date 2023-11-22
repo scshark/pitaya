@@ -29,7 +29,7 @@ import (
 	"github.com/abiosoft/ishell/v2"
 	"github.com/mitchellh/go-homedir"
 	"github.com/sirupsen/logrus"
-	"github.com/topfreegames/pitaya/v2/client"
+	"github.com/scshark/pitaya/v2/client"
 )
 
 func protoClient(log Log, addr string) error {

@@ -316,10 +316,10 @@ github.com/stretchr/testify v1.8.2/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o
 github.com/subosito/gotenv v1.4.2 h1:X1TuBLAMDFbaTAChgCBLu3DU3UPyELpnF2jjJ2cz/S8=
 github.com/subosito/gotenv v1.4.2/go.mod h1:ayKnFf/c6rvx/2iiLrJUk1e6plDbT3edrFNGqEflhK0=
 github.com/thrawn01/args v0.3.0/go.mod h1:TnRiOFjyh7Wa6oC8ACFPc7KIvbzCiluphA3mJUiPIEo=
-github.com/topfreegames/go-workers v1.1.0 h1:gLJHsTeNxx2K3lNyDD4lC4XpPF+0u0TYuWcp76Eqccg=
-github.com/topfreegames/go-workers v1.1.0/go.mod h1:8D8gh2G+q1i9rq92d6QRGyQcWlzPKV+O86WG8UxAPIg=
-github.com/topfreegames/pitaya/v2 v2.6.3-0.20230901141417-b7ec5822e19e h1:nA/w+eoZs+bfdo2Y/xXfnLZdNrue3vaLu5Qg3dlcqZ4=
-github.com/topfreegames/pitaya/v2 v2.6.3-0.20230901141417-b7ec5822e19e/go.mod h1:N60aXhCkkPhtYOat43ArWhemRc/YInOjNCGwjOWUk98=
+github.com/scshark/go-workers v1.1.0 h1:gLJHsTeNxx2K3lNyDD4lC4XpPF+0u0TYuWcp76Eqccg=
+github.com/scshark/go-workers v1.1.0/go.mod h1:8D8gh2G+q1i9rq92d6QRGyQcWlzPKV+O86WG8UxAPIg=
+github.com/scshark/pitaya/v2 v2.6.3-0.20230901141417-b7ec5822e19e h1:nA/w+eoZs+bfdo2Y/xXfnLZdNrue3vaLu5Qg3dlcqZ4=
+github.com/scshark/pitaya/v2 v2.6.3-0.20230901141417-b7ec5822e19e/go.mod h1:N60aXhCkkPhtYOat43ArWhemRc/YInOjNCGwjOWUk98=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

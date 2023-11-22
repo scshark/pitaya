@@ -22,8 +22,8 @@ package pitaya
 
 import (
 	"github.com/stretchr/testify/assert"
-	"github.com/topfreegames/pitaya/v2/acceptor"
-	"github.com/topfreegames/pitaya/v2/config"
+	"github.com/scshark/pitaya/v2/acceptor"
+	"github.com/scshark/pitaya/v2/config"
 	"testing"
 )
 

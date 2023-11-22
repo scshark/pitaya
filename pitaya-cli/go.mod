@@ -1,4 +1,4 @@
-module github.com/topfreegames/pitaya/v2/pitaya-cli
+module github.com/scshark/pitaya/v2/pitaya-cli
 
 go 1.18
 
@@ -6,7 +6,7 @@ require (
 	github.com/abiosoft/ishell/v2 v2.0.2
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/sirupsen/logrus v1.9.2
-	github.com/topfreegames/pitaya/v2 v2.7.1
+	github.com/scshark/pitaya/v2 v2.7.1
 )
 
 require (
@@ -56,7 +56,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.15.0 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
-	github.com/topfreegames/go-workers v1.1.0 // indirect
+	github.com/scshark/go-workers v1.1.0 // indirect
 	go.etcd.io/etcd/api/v3 v3.5.9 // indirect
 	go.etcd.io/etcd/client/pkg/v3 v3.5.9 // indirect
 	go.etcd.io/etcd/client/v3 v3.5.9 // indirect

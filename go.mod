@@ -1,4 +1,4 @@
-module github.com/topfreegames/pitaya/v2
+module github.com/scshark/pitaya/v2
 
 go 1.20
 
@@ -20,7 +20,7 @@ require (
 	github.com/sirupsen/logrus v1.9.2
 	github.com/spf13/viper v1.15.0
 	github.com/stretchr/testify v1.8.4
-	github.com/topfreegames/go-workers v1.1.0
+	github.com/scshark/go-workers v1.1.0
 	github.com/uber/jaeger-client-go v2.25.0+incompatible
 	go.etcd.io/etcd/api/v3 v3.5.9
 	go.etcd.io/etcd/client/pkg/v3 v3.5.9

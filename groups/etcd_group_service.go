@@ -9,9 +9,9 @@ import (
 	clientv3 "go.etcd.io/etcd/client/v3"
 	"go.etcd.io/etcd/client/v3/namespace"
 	"go.etcd.io/etcd/api/v3/mvccpb"
-	"github.com/topfreegames/pitaya/v2/config"
-	"github.com/topfreegames/pitaya/v2/constants"
-	"github.com/topfreegames/pitaya/v2/logger"
+	"github.com/scshark/pitaya/v2/config"
+	"github.com/scshark/pitaya/v2/constants"
+	"github.com/scshark/pitaya/v2/logger"
 )
 
 var (
